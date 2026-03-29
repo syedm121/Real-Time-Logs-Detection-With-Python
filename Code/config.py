@@ -1,0 +1,6 @@
+SERVER = 'localhost'
+LOG_TYPE = 'Security'
+FAILED_LOGIN_EVENT_ID = 4625
+
+THRESHOLD = 5
+TIME_WINDOW = 60
